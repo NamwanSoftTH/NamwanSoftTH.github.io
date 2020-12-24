@@ -18,7 +18,7 @@ TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
     cd C:\
     git clone https://github.com/NamwanSoftTH/Bank-App-Transfer.git 88Auto
     Username: NamwanSoftTH
-    Password: {{Personnel Token}}
+    Password: _Personnel Token_
     ```
 
 - Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System_System\JDK</code>
