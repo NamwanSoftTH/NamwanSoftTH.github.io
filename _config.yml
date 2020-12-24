@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: NamwanSoftTH
 description: My Document Project List
+homepage:
+  show: true
+  url: https://namwansoftth.github.io
