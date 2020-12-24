@@ -11,7 +11,7 @@ TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
 ## Installation
 
-- Install [Git](https://git-scm.com/download/win) to <code>C:\88Auto-System_System\Git</code>
+- Install [Git](https://git-scm.com/download/win) to <code>C:\88Auto-System\_System\Git</code>
 
   - Open Terminal
     ```
@@ -21,20 +21,20 @@ TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
     Password: _Personnel Token_
     ```
 
-- Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System_System\JDK</code>
+- Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System\_System\JDK</code>
 
 - Install [Android Studio](https://developer.android.com/studio/index.html)
 
-  - Set SDK Path to <code>C:\88Auto-System_System\AndroidSDK</code>
+  - Set SDK Path to <code>C:\88Auto-System\_System\AndroidSDK</code>
   - Download SDK from **SDK Manager** in **Android Studio**
 
-- Install [NodeJS](https://nodejs.org/en/) (Use **LTS Version**) to <code>C:\88Auto-System_System\NodeJS</code>
+- Install [NodeJS](https://nodejs.org/en/) (Use **LTS Version**) to <code>C:\88Auto-System\_System\NodeJS</code>
 
-- Install [Python](https://www.python.org/downloads/) to <code>C:\88Auto-System_System\Python</code>
+- Install [Python](https://www.python.org/downloads/) to <code>C:\88Auto-System\_System\Python</code>
 
 - Set Path Environmental Variable
 
-  - Go to <code>C:\88Auto_System_Install</code>
+  - Go to <code>C:\88Auto\_System\_Install</code>
   - Right click _Run as administrator_ **\_SetVarible.bat**
 
 - Open Terminal
@@ -68,7 +68,7 @@ git pull
 
 ## Config
 
-Go to <code>C:\88Auto_System_App</code> and edit config file **\_Script-{Bank}-{Device Number}**
+Go to <code>C:\88Auto\_System\_App</code> and edit config file **\_Script-{Bank}-{Device Number}**
 
 - change **${API_URL}**
 - change **${DEVICE_VERSION}**
@@ -88,7 +88,3 @@ Go to <code>C:\88Auto</code> double click **\_Run\_{Bank}.bat** after enter _{De
 ## How to get Device ID
 
 Run command in terminal <code>adb devices</code>
-
-## Donate
-
-To support this project, you can make a donation to its current maintainer
