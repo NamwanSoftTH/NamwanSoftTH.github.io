@@ -11,7 +11,7 @@ Transfer Auto **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
 ## Want to use
 
-  Contact Developer Line ID : [@nwsoft](https://line.me/ti/p/@nwsoft)
+  _Contact Developer_ Line ID : **[@nwsoft](https://line.me/ti/p/@nwsoft)**
 
 
 ## Installation
