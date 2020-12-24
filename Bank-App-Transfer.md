@@ -77,7 +77,7 @@ Go to <code>C:\88Auto\_System\_App</code> and edit config file **\_Script-{Bank}
 
 - change **${API_URL}**
 - change **${DEVICE_VERSION}**
-- change **${DEVICE_ID}**
+- change **${DEVICE_ID}** _[How To](#how-to-get-device-id)_
 - change **${APP_PIN_1}**
 - change **${APP_PIN_2}**
 - change **${APP_PIN_3}**
