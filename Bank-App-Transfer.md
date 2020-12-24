@@ -1,4 +1,4 @@
-# Bank-App-Transfer-Auto
+# Bank Transfer Auto
 
 Transfer Auto **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
@@ -16,7 +16,7 @@ Transfer Auto **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
 ## Installation
 
-- Install [Git](https://git-scm.com/download/win) to <code>C:\88Auto-System\_System\Git</code>
+- Install **[Git](https://git-scm.com/download/win)** to <code>C:\88Auto-System\_System\Git</code>
 
   - Open Terminal
     ```
@@ -26,16 +26,16 @@ Transfer Auto **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
     Password: {{Personnel Token}}
     ```
 
-- Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System\_System\JDK</code>
+- Install **[Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)** to <code>C:\88Auto-System\_System\JDK</code>
 
-- Install [Android Studio](https://developer.android.com/studio/index.html)
+- Install **[Android Studio](https://developer.android.com/studio/index.html)**
 
   - Set SDK Path to <code>C:\88Auto-System\_System\AndroidSDK</code>
   - Download SDK from **SDK Manager** in **Android Studio**
 
-- Install [NodeJS](https://nodejs.org/en/) (Use **LTS Version**) to <code>C:\88Auto-System\_System\NodeJS</code>
+- Install **[NodeJS](https://nodejs.org/en/)** (Use **LTS Version**) to <code>C:\88Auto-System\_System\NodeJS</code>
 
-- Install [Python](https://www.python.org/downloads/) to <code>C:\88Auto-System\_System\Python</code>
+- Install **[Python](https://www.python.org/downloads/)** to <code>C:\88Auto-System\_System\Python</code>
 
 - Set Path Environmental Variable
 
