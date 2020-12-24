@@ -1,13 +1,18 @@
-# Bank-App-Transfer
+# Bank-App-Transfer-Auto
 
-TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
+Transfer Auto **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
+- [Want to use](#want-to-use)
 - [Installation](#installation)
 - [Update](#update)
 - [Config](#config)
 - [Start Program](#start-program)
 - [Get Device ID](#how-to-get-device-id)
-- [Donate](#donate)
+
+## Want to use
+
+  Contact Developer Line ID : [@nwsoft](https://line.me/ti/p/@nwsoft)
+
 
 ## Installation
 
