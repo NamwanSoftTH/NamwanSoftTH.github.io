@@ -1,41 +1,44 @@
 # Bank-App-Transfer
- TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy** 
 
- - [Installation](#installation)
- - [Update](#update)
- - [Config](#config)
- - [Start Program](#start-program)
- - [Get Device ID](#how-to-get-device-id)
- - [Donate](#donate)
+TransferOut **Bank Thai** _(Android Device)_ support **KPlus**, **SCB Easy**
 
-
+- [Installation](#installation)
+- [Update](#update)
+- [Config](#config)
+- [Start Program](#start-program)
+- [Get Device ID](#how-to-get-device-id)
+- [Donate](#donate)
 
 ## Installation
-- Install [Git](https://git-scm.com/download/win) to <code>C:\88Auto-System\\_System\Git</code>
-     - Open Terminal
-          ```
-          cd C:\
-          git clone https://github.com/NamwanSoftTH/Bank-App-Transfer.git 88Auto
-          Username: NamwanSoftTH
-          Password: f696ab61401f3c0ae3e0df4458069462e4add8be
-          ```
 
+- Install [Git](https://git-scm.com/download/win) to <code>C:\88Auto-System_System\Git</code>
 
-- Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System\\_System\JDK</code>
+  - Open Terminal
+    ```
+    cd C:\
+    git clone https://github.com/NamwanSoftTH/Bank-App-Transfer.git 88Auto
+    Username: NamwanSoftTH
+    Password: {{Personnel Token}}
+    ```
+
+- Install [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) to <code>C:\88Auto-System_System\JDK</code>
 
 - Install [Android Studio](https://developer.android.com/studio/index.html)
-     - Set SDK Path to <code>C:\88Auto-System\\_System\AndroidSDK</code>
-     - Download SDK from **SDK Manager** in **Android Studio**
 
-- Install [NodeJS](https://nodejs.org/en/) (Use **LTS Version**) to <code>C:\88Auto-System\\_System\NodeJS</code>
+  - Set SDK Path to <code>C:\88Auto-System_System\AndroidSDK</code>
+  - Download SDK from **SDK Manager** in **Android Studio**
 
-- Install [Python](https://www.python.org/downloads/) to <code>C:\88Auto-System\\_System\Python</code>
+- Install [NodeJS](https://nodejs.org/en/) (Use **LTS Version**) to <code>C:\88Auto-System_System\NodeJS</code>
+
+- Install [Python](https://www.python.org/downloads/) to <code>C:\88Auto-System_System\Python</code>
 
 - Set Path Environmental Variable
-     - Go to <code>C:\88Auto\\_System\\_Install</code>
-     - Right click _Run as administrator_ **_SetVarible.bat**
+
+  - Go to <code>C:\88Auto_System_Install</code>
+  - Right click _Run as administrator_ **\_SetVarible.bat**
 
 - Open Terminal
+
 ```
 cd C:\88Auto-System
 npm install -g appium
@@ -48,6 +51,7 @@ pip install robotframework-httplibrary
 ```
 
 - Check Status
+
 ```
 git --version
 node -v
@@ -56,13 +60,16 @@ appium -v
 ```
 
 ## Update
+
 ```
 C:\88Auto
 git pull
 ```
 
 ## Config
-Go to <code>C:\88Auto\\_System\\_App</code> and edit config file **_Script-{Bank}-{Device Number}**
+
+Go to <code>C:\88Auto_System_App</code> and edit config file **\_Script-{Bank}-{Device Number}**
+
 - change **${API_URL}**
 - change **${DEVICE_VERSION}**
 - change **${DEVICE_ID}**
@@ -74,8 +81,8 @@ Go to <code>C:\88Auto\\_System\\_App</code> and edit config file **_Script-{Bank
 - change **${APP_PIN_6}**
 - change **${LINE_TOKEN}** not fix
 
-
 ## Start Program
+
 Go to <code>C:\88Auto</code> double click **\_Run\_{Bank}.bat** after enter _{Device Number}_
 
 ## How to get Device ID
@@ -83,4 +90,5 @@ Go to <code>C:\88Auto</code> double click **\_Run\_{Bank}.bat** after enter _{De
 Run command in terminal <code>adb devices</code>
 
 ## Donate
+
 To support this project, you can make a donation to its current maintainer
